@@ -1,0 +1,7 @@
+model_name: gcn
+
+num_layers: 3
+
+input_size: ???     
+hidden_size: 100
+dropout: 0.3

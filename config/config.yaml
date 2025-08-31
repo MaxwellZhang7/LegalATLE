@@ -1,0 +1,10 @@
+cwd: ???
+defaults:
+  - preprocess
+  - train
+  - embedding
+  - model:  gcn #[cnn, rnn, transformer , capsule, gcn, lm]
+  - hydra/output: custom
+
+
+

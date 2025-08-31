@@ -1,0 +1,11 @@
+# populated at runtime
+vocab_size: ???
+word_dim: 60
+pos_size: ??? # 2 * pos_limit + 2
+pos_dim: 10   
+
+dim_strategy: sum # [cat, sum]
+
+num_relations: 4
+
+num_labels: 8

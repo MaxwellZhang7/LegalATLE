@@ -1,0 +1,10 @@
+model_name: rnn
+
+type_rnn: 'LSTM'    # [RNN, GRU, LSTM]
+
+input_size: ???    
+hidden_size: 150    
+num_layers: 2
+dropout: 0.3
+bidirectional: True
+last_layer_hn: True

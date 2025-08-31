@@ -1,0 +1,16 @@
+model_name: capsule
+
+share_weights: True
+num_iterations: 5       
+dropout: 0.3
+
+input_dim_capsule: ???  
+dim_capsule: 50         
+num_capsule: ???        
+
+in_channels: ???           
+out_channels: 100         
+kernel_sizes: [11]          
+activation: 'lrelu'        
+keep_length: False        
+pooling_strategy: cls      

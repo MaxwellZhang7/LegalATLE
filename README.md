@@ -1,4 +1,4 @@
-### This is a pytorch implementation of the paper[LegalTALE: A Transfer-Active Learning Framework for Legal Triple Extraction]
+### This is a pytorch implementation of the paper[LegalATLE: An Active Transfer Learning Framework for Legal Triple Extraction]
 
 #### Environment
   - Pytorch 1.7.1

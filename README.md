@@ -1,10 +1,10 @@
-### This is a pytorch implementation of the paper[LegalATLE: An Active Transfer Learning Framework for Legal Triple Extraction]
+# This is a pytorch implementation of the paper[LegalATLE: An Active Transfer Learning Framework for Legal Triple Extraction]
 
-#### Environment
+## Environment
   - Pytorch 1.7.1
   - Python 3.6.13
 
-# How to run the code?
+## How to run the code?
 
 1. Download pretrained models to folder `PLM`.
 
